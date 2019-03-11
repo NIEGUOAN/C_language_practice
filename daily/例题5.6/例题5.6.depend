@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551187050 source:g:\c语言\c程序设计\第5章（循环结构程序设计）\例题5.6\main.c
+	<stdio.h>
+	<stdlib.h>
+
