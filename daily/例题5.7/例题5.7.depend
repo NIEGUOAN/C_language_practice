@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1550044617 source:c:\users\user\desktop\例题5.7\main.c
+	<stdio.h>
+	<math.h>
+
+1550044660 source:c:\users\user\desktop\c程序设计\第5章（循环结构程序设计）\例题5.7(!)\main.c
+	<stdio.h>
+	<math.h>
+
