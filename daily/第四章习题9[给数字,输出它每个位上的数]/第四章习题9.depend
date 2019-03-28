@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552815510 source:c:\users\nga27\desktop\c程序设计\第4章（选择结构程序设计）\第四章习题9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
